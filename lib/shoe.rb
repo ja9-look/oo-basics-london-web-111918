@@ -17,4 +17,5 @@ class Shoe
 
 end
 
+new_shoe = Show.new(brand)
 Shoe.condition = "new"
