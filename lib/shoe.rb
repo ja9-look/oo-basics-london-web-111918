@@ -17,5 +17,4 @@ class Shoe
 
 end
 
-new = Shoe.:@condition( "new")
 
