@@ -17,5 +17,4 @@ class Shoe
 
 end
 
-new_shoe = Show.new(brand)
-new_shoe.condition = "new"
+
